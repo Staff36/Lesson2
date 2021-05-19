@@ -1,0 +1,6 @@
+You can use next commands:
+ls -> list of files and directories in current directory
+cat fileName -> show file data on display
+help -> list of available commands
+cd dir_name-> move to directory dir_name(if available)
+.. -> move to parent directory
